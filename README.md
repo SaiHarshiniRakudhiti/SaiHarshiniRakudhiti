@@ -38,3 +38,13 @@ Building AI-powered solutions, transforming data into insights, and creating pro
 🏅 Internship Programs
 
 🏅 Open Source Contributions
+
+📖 Advanced SQL
+
+📖 Power BI
+
+📖 Business Analytics
+
+📖 AI Agents
+
+📖 LLM Applications
