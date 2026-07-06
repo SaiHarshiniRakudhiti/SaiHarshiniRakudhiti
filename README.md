@@ -109,3 +109,9 @@
 **Building one meaningful project at a time.**
 
 </div>
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaiHarshiniRakudhiti/SaiHarshiniRakudhiti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
